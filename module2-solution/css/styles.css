@@ -65,7 +65,7 @@ p {
 }
 @media (min-width: 992px) {
     .col-lg-4 {
-        width: 33%;
+        width: 30%;
         float: left;
 
     }
