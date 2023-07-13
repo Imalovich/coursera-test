@@ -2,13 +2,15 @@
     box-sizing: border-box;
 }
 body {
-    font-family: Helvetica;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-h1 {
+h1{
     text-align: center;
+    background-color: white;
     margin-bottom: 20px;
 }
+
 
 .section {
     border: 1px solid black;
@@ -68,5 +70,5 @@ h1 {
 }
 
 #sushi .section-title {
-    background-color: #00008B; /* Dark Blue */
+    background-color: burlywood; 
 }
